@@ -8,4 +8,4 @@ Q3. Which are the Most Selling Products?
 
 Q4. Which is the most preferred Ship Mode?
 
-Q5. Which are the Most Profitable Category and Sub-Category?
+Q5. Which are the Most Profitable Category and Sub-Category
